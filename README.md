@@ -20,7 +20,9 @@ it's still compatible with KSP through at least 1.7.2.
 
 I don't know what other impacts it will have on difficulty, and it might break saves. Use at your own risk, and I highly recommend firing this up in its own game instance.
 
-Changes Made:
+Changes Made: (changelog)
+
+Initial Commit (version 1.0) - changes from Stevehead's HSS
 - Removed remotetech config
 - Removed repositioning of KSC
 - Removed mass tweak to Jool from main config file and renamed to PSAHSSKopernicus.cfg
