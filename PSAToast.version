@@ -1,31 +1,10 @@
 {
-	"NAME":				"PSAHarderStockSystem",
-	"URL":				"http://ksp-avc.cybutek.net/version.php?id=233",
-	"DOWNLOAD":			"https://github.com/panarchist/PSA-HarderStockSystem/releases",
-	"CHANGE_LOG_URL":		"https://github.com/SteveheadSpaceAgency/HarderSolarSystem",
-	"VERSION":
-	{
-		"MAJOR":1,
-		"MINOR":0,
-		"PATCH":0,
-		"BUILD":0
-	},
-	"KSP_VERSION":
-	{
-		"MAJOR":1,
-		"MINOR":7,
-		"PATCH":2
-	},
-	"KSP_VERSION_MIN":
-	{
-		"MAJOR":1,
-		"MINOR":3,
-		"PATCH":0
-	},
-	"KSP_VERSION_MAX":
-	{
-		"MAJOR":1,
-		"MINOR":7,
-		"PATCH":3
-	}
+"NAME":"PSA Toast",
+"URL":"http://ksp-avc.cybutek.net/version.php?id=651",
+"DOWNLOAD":"https://github.com/panarchist/Toast/releases",
+"CHANGE_LOG_URL":"https://github.com/panarchist/Toast/blob/master/README.md",
+"VERSION":{"MAJOR":1,"MINOR":0,"PATCH":0,"BUILD":0},
+"KSP_VERSION":{"MAJOR":1,"MINOR":7,"PATCH":2},
+"KSP_VERSION_MIN":{"MAJOR":1,"MINOR":0,"PATCH":5},
+"KSP_VERSION_MAX":{"MAJOR":1,"MINOR":9,"PATCH":9}
 }
